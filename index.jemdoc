@@ -1,4 +1,4 @@
-# jemdoc: nofooter,title{Chijin Zhou's homepage}
+# jemdoc: notime,title{Chijin Zhou's homepage}
 
 ~~~
 {}{img_left}{./figs/photo.jpg}{photo}{240px}{}{}
@@ -6,7 +6,7 @@
 PhD student\n
 School of Software, Tsinghua University\n\n
 Email: tlock.chijin at gmail dot com\n\n
-\[[https://scholar.google.com/citations?user=cTxPNGUAAAAJ Google Scholar]\] \[[https://github.com/ChijinZ Github]\]
+\[[https://scholar.google.com/citations?user=cTxPNGUAAAAJ Google Scholar]\] \[[https://github.com/ChijinZ Github]\] \n
 ~~~
 
 = About me
