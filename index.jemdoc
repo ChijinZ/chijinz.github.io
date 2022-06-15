@@ -1,52 +1,66 @@
 # jemdoc: nofooter,title{Chijin Zhou's homepage}
 
 ~~~
-{}{img_left}{./figs/photo.jpg}{photo}{252px}{241px}{}
+{}{img_left}{./figs/photo.jpg}{photo}{240px}{}{}
 = Chijin Zhou
-Master student\n
+PhD student\n
 School of Software, Tsinghua University\n\n
-Email: zcj18 at mails.tsinghua.edu.cn\n\n
-\[[https://github.com/ChijinZ/chijinz.github.io/blob/main/archive/chijin-cv.pdf C.V.]\] \[[https://scholar.google.com/citations?user=cTxPNGUAAAAJ Google Scholar]\] \[[https://github.com/ChijinZ Github]\]
+Email: tlock.chijin at gmail dot com\n\n
+\[[https://scholar.google.com/citations?user=cTxPNGUAAAAJ Google Scholar]\] \[[https://github.com/ChijinZ Github]\]
 ~~~
 
 = About me
-My name is Chijin Zhou (周炽金). I am currently a third-year master student in the [http://wingtecher.com/ Software System Security Assurance Group] at Tsinghua University, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my B.Eng. in Software Engineering from Beijing Institute of Technology in 2018. 
+My name is Chijin Zhou (周炽金). I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. 
 
 My research interests span system security and software engineering, especially fuzzing and program analysis.
 
-Pronunciation of my name: Chijin \['tʃɪ'dʒɪn\].
-
 = Publications
-
+- *Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis.* \n
+*Chijin Zhou*, Quan Zhang, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang \n
+In Proceedings of /ESEC\/FSE'22/.
+- *Unicorn: Detect Runtime Errors in Time-Series Databases with Hybrid Input Synthesis.* \n
+Zhiyong Wu, Jie Liang, Mingzhe Wang, *Chijin Zhou*, Yu Jiang \n
+In Proceedings of /ISSTA'22/.
+- *Odin: On-Demand Instrumentation with On-the-Fly Recompilation.* \n
+Mingzhe Wang, Jie Liang, *Chijin Zhou*, Zhiyong Wu, Xinyi Xu, Yu Jiang \n
+In Proceedings of /PLDI'22/.
+- *PATA: Fuzzing with Path Aware Taint Analysis.* \n
+Jie Liang, Mingzhe Wang, *Chijin Zhou*, Zhiyong Wu, Yu Jiang, Jianzhong Liu, Zhe Liu, Jiaguang Sun \n
+In Proceedings of /S&P'22/.
+- *RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing.* \n
+Mingzhe Wang, Jie Liang, *Chijin Zhou*, Yu Jiang, Rui Wang, Chengnian Sun, Jiaguang Sun \n
+In Proceedings of /USENIX ATC'21/.
 -  *Industry Practice of Coverage-Guided Enterprise-Level DBMS Fuzzing.* \n
 Mingzhe Wang, Zhiyong Wu, Xinyi Xu, Jie Liang, *Chijin Zhou*, Huafeng Zhang and Yu Jiang \n
-/ICSE'21-SEIP: Proceedings of the 43rd International Conference on Software Engineering, Software Engineering in Practice, 2021./
+In Proceedings of /ICSE'21-SEIP/.
 -  *Industrial Oriented Evaluation of Fuzzing Techniques.* \n
 Mingzhe Wang, Jie Liang, *Chijin Zhou*, Yuanliang Chen, Zhiyong Wu, Yu Jiang \n
-/ICST'21-Industry: Proceedings of the 14th IEEE International Conference on Software Testing, Validation and Verification, Industry Track, 2021./
+In Proceedings of /ICST'21 (industry track)/.
 - *Zeror: Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Yu Jiang \n
-/ASE'20: Proceedings of the 35th IEEE\/ACM International Conference on Automated Software Engineering, 2020./
+In Proceedings of /ASE'20/.
 - *VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Chengnian Sun, Yu Jiang \n
-/ASE'19-Demo: Proceedings of the 34th IEEE\/ACM International Conference on Automated Software Engineering, Tool Demonstrations, 2019./
+In Proceedings of /ASE'19 (demo track)/.
 - *Enfuzz: Ensemble fuzzing with seed synchronization among diverse fuzzers.* \n
 Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, *Chijin Zhou*, Xun Jiao, Zhuo Su \n
-/Sec'19: Proceedings of the 28th USENIX Security Symposium, 2019./
+In Proceedings of /USENIX Sec'19/.
 - *Pafl: extend fuzzing optimizations of single mode to industrial parallel mode.* \n
 Jie Liang, Yu Jiang, Yuanliang Chen, Mingzhe Wang, *Chijin Zhou*, Jiaguang Sun \n
-/FSE'18-Industry: Proceedings of the 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering, Industry Track, 2018./
+In Proceedings of /ESEC\/FSE'18 (industry track)/.
 
 = Work Experience
 - Security research intern (2020.6-2020.8)\n
 /[https://blade.tencent.com/ Tencent Blade Team], Tencent, Shenzhen, China/ \n
-Researched on cloud native security and container security. Discovered two vulnerabilities on Kubernetes (CVE-2020-8560 and CVE-2020-8556), and an [https://github.com/golang/go/issues/40196\#issuecomment-659544707/  out\-of\-range bug] in a standard library of Golang.
+Researched on cloud native security and container security. Discovered two vulnerabilities on Kubernetes (CVE-2020-8560 and CVE-2020-8556; 1200$ awarded), and an [https://github.com/golang/go/issues/40196\#issuecomment-659544707/  out\-of\-range bug] in a standard library of Golang.
 
 = Honors and Awards
+- 2021, Distinguished Master's Thesis Award, Tsinghua University
+- 2021, Outstanding Graduate Award, School of Software, Tsinghua University
 - 2020, VMware Scholarship, Tsinghua University
 - 2019, MITSUBISHI Scholarship, Tsinghua University
 - 2018, Outstanding Graduate Award, Beijing Institute of Technology
 - 2016, grand prize of ”Century Cup” Technology Competition, Beijing Institute of Technology
 
 = Vulnerability Disclosure
-Independently discovered 30+ vulnerabilities in several open-source projects including Kubernetes, Golang, PostgresSQL, libjpeg, and 19 of them have CVE IDs. Details are profiled in my [https://github.com/ChijinZ/security_advisories security advisories].
+Independently discovered 30\+ vulnerabilities in several open-source projects including Safari (WebKit), Kubernetes, Golang, PostgresSQL, libjpeg, and 20\+ of them have CVE IDs. Details are profiled in my [https://github.com/ChijinZ/security_advisories security advisories].
