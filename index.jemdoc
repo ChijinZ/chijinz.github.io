@@ -17,7 +17,7 @@ My research interests span system security and software engineering, especially 
 = Publications
 - *Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis.* \n
 *Chijin Zhou*, Quan Zhang, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang \n
-In Proceedings of /ESEC\/FSE'22/. {{<font color="red">[Distinguished Paper Award]</font>}}
+In Proceedings of /ESEC\/FSE'22/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf paper], [./archive/minerva_fse22_pre.pdf slides], [https://github.com/ChijinZ/Minerva source], {{<font color="red">Distinguished Paper Award</font>}}) \n
 - *Empirical Study of System Resources Abused by IoT Attackers.* \n
 Zijing Yin, Yiwen Xu, *Chijin Zhou* and Yu Jiang \n
 In Proceedings of /ASE'22/.
