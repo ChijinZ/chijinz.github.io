@@ -2,7 +2,7 @@
 
 ~~~
 {}{img_left}{./figs/photo.jpg}{photo}{240px}{}{}
-= Chijin Zhou
+= Chijin Zhou (周炽金)
 PhD student\n
 School of Software, Tsinghua University\n\n
 Email: tlock.chijin at gmail dot com\n\n
@@ -10,11 +10,15 @@ Email: tlock.chijin at gmail dot com\n\n
 ~~~
 
 = About me
-My name is Chijin Zhou (周炽金). I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. 
-
-My research interests span system security and software engineering, especially fuzzing and program analysis.
+I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. My research interests span system security and software engineering, especially fuzzing and program analysis. 
 
 = Publications
+- *Limits of I\/O Based Ransomware Detection: An Imitation Based Attack.* \n
+*Chijin Zhou*, Lihua Guo, Yiwei Hou, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, and Yu Jiang \n
+In Proceedings of /S&P'23/.
+- *DAISY: Effective Fuzz Driver Synthesis with Object Usage Sequence Analysis.* \n
+Mingrui Zhang, *Chijin Zhou*, Jianzhong Liu, Mingzhe Wang, Jie Liang, Juan Zhu and Yu Jiang \n
+In Proceedings of /ICSE'23-SEIP/.
 - *Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis.* \n
 *Chijin Zhou*, Quan Zhang, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang \n
 In Proceedings of /ESEC\/FSE'22/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf paper], [./archive/minerva_fse22_pre.pdf slides], [https://github.com/ChijinZ/Minerva source], {{<font color="red">Distinguished Paper Award</font>}}) \n
@@ -58,8 +62,9 @@ In Proceedings of /ESEC\/FSE'18 (industry track)/.
 Researched on cloud native security and container security. Discovered two vulnerabilities on Kubernetes (CVE-2020-8560 and CVE-2020-8556; 1200$ awarded), and an [https://github.com/golang/go/issues/40196\#issuecomment-659544707/  out\-of\-range bug] in a standard library of Golang.
 
 = Honors and Awards
+- 2022, ACM SIGSOFT Distinguished Award, ESEC/FSE'22
 - 2021, Distinguished Master's Thesis Award, Tsinghua University
-- 2021, Outstanding Graduate Award, School of Software, Tsinghua University
+- 2021, Outstanding Graduate Award, Tsinghua University
 - 2020, VMware Scholarship, Tsinghua University
 - 2019, MITSUBISHI Scholarship, Tsinghua University
 - 2018, Outstanding Graduate Award, Beijing Institute of Technology
