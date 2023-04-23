@@ -15,7 +15,7 @@ I am a PhD student at the [http://wingtecher.com/ Software System Security Assur
 = Publications
 - *Limits of I\/O Based Ransomware Detection: An Imitation Based Attack.* \n
 *Chijin Zhou*, Lihua Guo, Yiwei Hou, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, and Yu Jiang \n
-In Proceedings of /S&P'23/.
+In Proceedings of /S&P'23/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf paper])
 - *DAISY: Effective Fuzz Driver Synthesis with Object Usage Sequence Analysis.* \n
 Mingrui Zhang, *Chijin Zhou*, Jianzhong Liu, Mingzhe Wang, Jie Liang, Juan Zhu and Yu Jiang \n
 In Proceedings of /ICSE'23-SEIP/.
@@ -45,10 +45,10 @@ Mingzhe Wang, Jie Liang, *Chijin Zhou*, Yuanliang Chen, Zhiyong Wu, Yu Jiang \n
 In Proceedings of /ICST'21 (industry track)/.
 - *Zeror: Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Yu Jiang \n
-In Proceedings of /ASE'20/.
+In Proceedings of /ASE'20/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/ase20.pdf paper])
 - *VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Chengnian Sun, Yu Jiang \n
-In Proceedings of /ASE'19 (demo track)/.
+In Proceedings of /ASE'19 (demo track)/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/visfuzzASE19r.pdf paper], [https://github.com/ChijinZ/VisFuzz source])
 - *Enfuzz: Ensemble fuzzing with seed synchronization among diverse fuzzers.* \n
 Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, *Chijin Zhou*, Xun Jiao, Zhuo Su \n
 In Proceedings of /USENIX Sec'19/.
@@ -62,7 +62,7 @@ In Proceedings of /ESEC\/FSE'18 (industry track)/.
 Researched on cloud native security and container security. Discovered two vulnerabilities on Kubernetes (CVE-2020-8560 and CVE-2020-8556; 1200$ awarded), and an [https://github.com/golang/go/issues/40196\#issuecomment-659544707/  out\-of\-range bug] in a standard library of Golang.
 
 = Honors and Awards
-- 2022, ACM SIGSOFT Distinguished Award, ESEC/FSE'22
+- 2022, ACM SIGSOFT Distinguished Paper Award, ESEC/FSE'22
 - 2021, Distinguished Master's Thesis Award, Tsinghua University
 - 2021, Outstanding Graduate Award, Tsinghua University
 - 2020, VMware Scholarship, Tsinghua University
