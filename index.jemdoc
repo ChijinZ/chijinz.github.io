@@ -10,9 +10,15 @@ Email: tlock.chijin at gmail dot com\n\n
 ~~~
 
 = About me
-I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. My research interests span software engineering, especially fuzzing and program analysis. 
+I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. My research interests span system security and software engineering, especially fuzzing and program analysis. 
 
 = Publications
+- *Towards Better Semantics Exploration for Browser Fuzzing.* \n
+*Chijin Zhou*, Quan Zhang, Lihua Guo, Mingzhe Wang, Yu Jiang, Qing Liao, Zhiyong Wu, Shanshan Li, Bin Gu \n
+In Proceedings of /OOPSLA'23/.
+- *Building Dynamic System Call Sandbox With Partial Order Analysis.* \n
+Quan Zhang, *Chijin Zhou*, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, Jiaguang Sun \n
+In Proceedings of /OOPSLA'23/.
 - *Limits of I\/O Based Ransomware Detection: An Imitation Based Attack.* \n
 *Chijin Zhou*, Lihua Guo, Yiwei Hou, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, and Yu Jiang \n
 In Proceedings of /S&P'23/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf paper])
