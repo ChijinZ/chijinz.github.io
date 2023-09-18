@@ -14,8 +14,8 @@ I am a PhD student at the [http://wingtecher.com/ Software System Security Assur
 
 = Publications
 - *Towards Better Semantics Exploration for Browser Fuzzing.* \n
-*Chijin Zhou*, Quan Zhang, Lihua Guo, Mingzhe Wang, Yu Jiang, Qing Liao, Zhiyong Wu, Shanshan Li, Bin Gu ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf paper])\n
-In Proceedings of /OOPSLA'23/.
+*Chijin Zhou*, Quan Zhang, Lihua Guo, Mingzhe Wang, Yu Jiang, Qing Liao, Zhiyong Wu, Shanshan Li, Bin Gu\n
+In Proceedings of /OOPSLA'23/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf paper])
 - *Building Dynamic System Call Sandbox With Partial Order Analysis.* \n
 Quan Zhang, *Chijin Zhou*, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, Jiaguang Sun \n
 In Proceedings of /OOPSLA'23/.
