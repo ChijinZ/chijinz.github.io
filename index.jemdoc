@@ -13,58 +13,67 @@ Email: tlock.chijin at gmail dot com\n\n
 I am a PhD student at the [http://wingtecher.com/ Software System Security Assurance Group] at [https://www.tsinghua.edu.cn/en/ Tsinghua University] since September 2022, supervised by Prof. [https://sites.google.com/site/jiangyu198964/home Yu Jiang]. Before that, I received my bachelor and master degree from Beijing Institute of Technology in 2018 and Tsinghua University in 2021, respectively. My research interests span system security and software engineering, especially fuzzing and program analysis. 
 
 = Publications
+- *Automatic Policy Synthesis and Enforcement for Protecting Untrusted Deserialization.* \n
+Quan Zhang, Yiwen Xu, Zijing Yin, *Chijin Zhou*, and Yu Jiang\n
+In Proceedings of /NDSS'24/ (to appear).
+- *An Empirical Study of Data Disruption by Ransomware Attacks.* \n
+Yiwei Hou, Lihua Guo, *Chijin Zhou*, Yiwen Xu, Zijing Yin, Shanshan Li, Chengnian Sun, Yu Jiang\n
+In Proceedings of /ICSE'24/ (to appear).
 - *Towards Better Semantics Exploration for Browser Fuzzing.* \n
 *Chijin Zhou*, Quan Zhang, Lihua Guo, Mingzhe Wang, Yu Jiang, Qing Liao, Zhiyong Wu, Shanshan Li, Bin Gu\n
-In Proceedings of /OOPSLA'23/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/oopsla23-browser-preprint.pdf paper])
+In Proceedings of /OOPSLA'23/. ([https://dl.acm.org/doi/abs/10.1145/3622819 doi], [./archive/sage_oopsla23_slide.pdf slide], [https://github.com/ChijinZ/SaGe-Browser-Fuzzer source])
 - *Building Dynamic System Call Sandbox With Partial Order Analysis.* \n
 Quan Zhang, *Chijin Zhou*, Yiwen Xu, Zijing Yin, Mingzhe Wang, Zhuo Su, Chengnian Sun, Yu Jiang, Jiaguang Sun \n
-In Proceedings of /OOPSLA'23/.
+In Proceedings of /OOPSLA'23/. ([https://dl.acm.org/doi/10.1145/3622842 doi])
 - *Limits of I\/O Based Ransomware Detection: An Imitation Based Attack.* \n
 *Chijin Zhou*, Lihua Guo, Yiwei Hou, Zhenya Ma, Quan Zhang, Mingzhe Wang, Zhe Liu, and Yu Jiang \n
-In Proceedings of /S&P'23/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/animagus-SP23.pdf paper])
+In Proceedings of /S&P'23/. ([https://ieeexplore.ieee.org/document/10179372 doi], [https://github.com/ChijinZ/Animagus tool])
 - *DAISY: Effective Fuzz Driver Synthesis with Object Usage Sequence Analysis.* \n
 Mingrui Zhang, *Chijin Zhou*, Jianzhong Liu, Mingzhe Wang, Jie Liang, Juan Zhu and Yu Jiang \n
-In Proceedings of /ICSE'23-SEIP/.
+In Proceedings of /ICSE'23-SEIP/. ([https://ieeexplore.ieee.org/document/10172685 doi])
 - *Minerva: Browser API Fuzzing with Dynamic Mod-Ref Analysis.* \n
 *Chijin Zhou*, Quan Zhang, Mingzhe Wang, Lihua Guo, Jie Liang, Zhe Liu, Mathias Payer, Yu Jiang \n
-In Proceedings of /ESEC\/FSE'22/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/FSE22_Minerva.pdf paper], [./archive/minerva_fse22_pre.pdf slides], [https://github.com/ChijinZ/Minerva source], {{<font color="red">Distinguished Paper Award</font>}}) \n
+In Proceedings of /ESEC\/FSE'22/. ([https://dl.acm.org/doi/10.1145/3540250.3549107 doi], [./archive/minerva_fse22_pre.pdf slides], [https://github.com/ChijinZ/Minerva source], *{{<font color="red">Distinguished Paper Award</font>}}*) \n
 - *Empirical Study of System Resources Abused by IoT Attackers.* \n
 Zijing Yin, Yiwen Xu, *Chijin Zhou* and Yu Jiang \n
-In Proceedings of /ASE'22/.
+In Proceedings of /ASE'22/. ([https://dl.acm.org/doi/abs/10.1145/3551349.3556901 doi])
 - *Unicorn: Detect Runtime Errors in Time-Series Databases with Hybrid Input Synthesis.* \n
 Zhiyong Wu, Jie Liang, Mingzhe Wang, *Chijin Zhou*, Yu Jiang \n
-In Proceedings of /ISSTA'22/.
+In Proceedings of /ISSTA'22/. ([https://dl.acm.org/doi/10.1145/3533767.3534364 doi])
 - *Odin: On-Demand Instrumentation with On-the-Fly Recompilation.* \n
 Mingzhe Wang, Jie Liang, *Chijin Zhou*, Zhiyong Wu, Xinyi Xu, Yu Jiang \n
-In Proceedings of /PLDI'22/.
+In Proceedings of /PLDI'22/. ([https://dl.acm.org/doi/abs/10.1145/3519939.3523428 doi])
 - *PATA: Fuzzing with Path Aware Taint Analysis.* \n
 Jie Liang, Mingzhe Wang, *Chijin Zhou*, Zhiyong Wu, Yu Jiang, Jianzhong Liu, Zhe Liu, Jiaguang Sun \n
-In Proceedings of /S&P'22/.
+In Proceedings of /S&P'22/. ([https://ieeexplore.ieee.org/document/9833594 doi])
 - *RIFF: Reduced Instruction Footprint for Coverage-Guided Fuzzing.* \n
 Mingzhe Wang, Jie Liang, *Chijin Zhou*, Yu Jiang, Rui Wang, Chengnian Sun, Jiaguang Sun \n
-In Proceedings of /USENIX ATC'21/.
+In Proceedings of /USENIX ATC'21/. ([https://www.usenix.org/conference/atc21/presentation/wang-mingzhe paper])
 -  *Industry Practice of Coverage-Guided Enterprise-Level DBMS Fuzzing.* \n
 Mingzhe Wang, Zhiyong Wu, Xinyi Xu, Jie Liang, *Chijin Zhou*, Huafeng Zhang and Yu Jiang \n
-In Proceedings of /ICSE'21-SEIP/.
+In Proceedings of /ICSE'21-SEIP/. ([https://dl.acm.org/doi/abs/10.1109/ICSE-SEIP52600.2021.00042 doi])
 -  *Industrial Oriented Evaluation of Fuzzing Techniques.* \n
 Mingzhe Wang, Jie Liang, *Chijin Zhou*, Yuanliang Chen, Zhiyong Wu, Yu Jiang \n
-In Proceedings of /ICST'21 (industry track)/.
+In Proceedings of /ICST'21 (industry track)/. ([https://ieeexplore.ieee.org/document/9438558 doi])
 - *Zeror: Speed Up Fuzzing with Coverage-sensitive Tracing and Scheduling.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Yu Jiang \n
-In Proceedings of /ASE'20/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/ase20.pdf paper])
+In Proceedings of /ASE'20/. ([https://dl.acm.org/doi/abs/10.1145/3324884.3416572 doi])
 - *VisFuzz: Understanding and Intervening Fuzzing with Interactive Visualization.* \n
 *Chijin Zhou*, Mingzhe Wang, Jie Liang, Zhe Liu, Chengnian Sun, Yu Jiang \n
-In Proceedings of /ASE'19 (demo track)/. ([http://wingtecher.com/themes/WingTecherResearch/assets/papers/visfuzzASE19r.pdf paper], [https://github.com/ChijinZ/VisFuzz source])
+In Proceedings of /ASE'19 (demo track)/. ([https://ieeexplore.ieee.org/document/8952352 doi], [https://github.com/ChijinZ/VisFuzz source])
 - *Enfuzz: Ensemble fuzzing with seed synchronization among diverse fuzzers.* \n
 Yuanliang Chen, Yu Jiang, Fuchen Ma, Jie Liang, Mingzhe Wang, *Chijin Zhou*, Xun Jiao, Zhuo Su \n
-In Proceedings of /USENIX Sec'19/.
+In Proceedings of /USENIX Sec'19/. ([https://www.usenix.org/conference/usenixsecurity19/presentation/chen-yuanliang paper])
 - *Pafl: extend fuzzing optimizations of single mode to industrial parallel mode.* \n
 Jie Liang, Yu Jiang, Yuanliang Chen, Mingzhe Wang, *Chijin Zhou*, Jiaguang Sun \n
-In Proceedings of /ESEC\/FSE'18 (industry track)/.
+In Proceedings of /ESEC\/FSE'18 (industry track)/. ([https://dl.acm.org/doi/10.1145/3236024.3275525 doi])
 
 = Work Experience
+- Compiler research intern (2023.6-2023.8)\n
+/Kuaishou Tech, Hangzhou, China/ \n
+Researched on superoptimization.
 - Security research intern (2020.6-2020.8)\n
-/[https://blade.tencent.com/ Tencent Blade Team], Tencent, Shenzhen, China/ \n
+/[https://blade.tencent.com/ Tencent Blade Team], Tencent Tech, Shenzhen, China/ \n
 Researched on cloud native security and container security. Discovered two vulnerabilities on Kubernetes (CVE-2020-8560 and CVE-2020-8556; 1200$ awarded), and an [https://github.com/golang/go/issues/40196\#issuecomment-659544707/  out\-of\-range bug] in a standard library of Golang.
 
 = Honors and Awards
